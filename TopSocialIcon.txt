@@ -1,0 +1,15 @@
+<!-- change your text and urls -->
+
+<a class='social-fa' href='https://www.facebook.com/idreamgroup/' target='_blank'><i class='fa fa-facebook'/></i></a>
+
+<a class='social-tw' href='#' target='_blank'><i class='fa fa-twitter'/></i></a>
+
+<a class='social-in' href='#' target='_blank'><i class='fa fa-instagram'/></i></a>
+
+<a class='social-pi' href='#' target='_blank'><i class='fa fa-pinterest'/></i></a>
+
+<a class='social-pi' href='#' target='_blank'><i class='fa fa-youtube'/></i></a>
+
+<a class='social-pi' href='#' target='_blank'><i class='fa fa-pinterest'/></i></a>
+
+<a class='social-yo' href='#' target='_blank'><i class='fa fa-rss'/></i></a>

@@ -1,0 +1,107 @@
+<style>
+
+
+
+
+
+#HeaderCollege {
+    
+     font-weight:bold;
+    color: white;    
+    letter-spacing: 1px;
+    
+    text-align: center;
+        width: 100%;
+    column-rule-color: rgb(255, 255, 255);
+font-size:25px;
+    font: Roboto, Helvetica, Arial, sans-serif;     
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+#AddressCollege {
+    box-sizing: border-box;
+     font-weight:bold;
+    color: white;
+    height: 112px;
+    letter-spacing: 1px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-rendering: optimizelegibility;
+    width: 100%;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+#EstedCollege {
+    box-sizing: border-box;
+     font-weight:bold;
+    color: white;
+    height: 112px;
+    letter-spacing: 1px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-rendering: optimizelegibility;
+    width: 100%;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+
+
+@media (max-width: 767px) {
+
+#HeaderCollege {
+    
+     font-weight:bold;
+    color: white;    
+    letter-spacing: 1px;
+    
+    text-align: center;
+        width: 100%;
+    column-rule-color: rgb(255, 255, 255);
+font-size:15px;
+    font: Roboto, Helvetica, Arial, sans-serif;     
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+#AddressCollege {
+    box-sizing: border-box;
+     font-weight:bold;
+    color: white;
+    height: 112px;
+    letter-spacing: 1px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-rendering: optimizelegibility;
+    width: 100%;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+ #EstedCollege {
+    box-sizing: border-box;
+     font-weight:bold;
+    color: white;
+    height: 112px;
+    letter-spacing: 1px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-rendering: optimizelegibility;
+    width: 100%;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+  
+}
+
+
+
+
+
+</style>
+<h1 id="HeaderCollege">TALCHER PUBLIC SCHOOL<br/>
+Remuan Road, Hatatota, Angul, Odisha, 759100
+</h1>
